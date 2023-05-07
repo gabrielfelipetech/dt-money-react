@@ -39,5 +39,5 @@ export function Transactions() {
         </TransactionsTable>
       </TransactionsContainer>
     </div>
-  );
+  )
 }
